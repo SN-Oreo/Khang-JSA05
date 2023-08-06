@@ -1,0 +1,56 @@
+html{
+    margin: 0;
+    background-color: aqua;
+}
+.flex{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(31, 237, 169);
+    display: flex;
+    justify-content: center;
+}
+.form-signup{
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 400px;
+}
+input{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(214, 214, 214);
+    width: 350px;
+    height: 50px;
+}
+.item{
+    margin-bottom: 50px;
+}
+.ten{
+    position: absolute;
+    margin-left: -345px;
+    margin-top: 20px;
+}
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
+.btn1{
+    border: none;
+    border-radius: 20px;
+    width: 160px;
+    height: 45px;
+}
+.a1{
+    background-color: aquamarine;
+}
+.a2{
+    background-color: rgb(191, 191, 191);
+}
